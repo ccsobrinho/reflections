@@ -31,4 +31,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Sometimes I need to develop some code in shell script, awk or pl/sql for my company. I can see that it would be very useful to use git to control the version of those codes. 
