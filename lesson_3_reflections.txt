@@ -1,0 +1,3 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Sempre. Mantendo assim um repositóro atualizado na nuvem disponível de qualquer máquina qualquer hora.
